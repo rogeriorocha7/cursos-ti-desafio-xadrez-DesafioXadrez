@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/roger/Documents/GitHub/livros-dev/cursos-ti-desafio-xadrez-DesafioXadrez",
-      "program": "c:/Users/roger/Documents/GitHub/livros-dev/cursos-ti-desafio-xadrez-DesafioXadrez/build/Debug/outDebug",
+      "cwd": "c:/Users/roger/Documents/GitHub/livros-dev/cursos-ti-desafio-xadrez-DesafioXadrez/01_NIVEL_NOVATO",
+      "program": "c:/Users/roger/Documents/GitHub/livros-dev/cursos-ti-desafio-xadrez-DesafioXadrez/01_NIVEL_NOVATO/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
